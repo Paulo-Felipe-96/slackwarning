@@ -1,0 +1,16 @@
+behave==1.2.6
+certifi==2021.5.30
+chardet==4.0.0
+charset-normalizer==2.0.4
+environs==9.3.2
+idna==3.2
+loguru==0.5.3
+marshmallow==3.13.0
+numpy==1.21.2
+parse==1.19.0
+parse-type==0.5.2
+python-dotenv==0.19.0
+requests==2.26.0
+six==1.16.0
+tqdm==4.62.1
+urllib3==1.26.6
